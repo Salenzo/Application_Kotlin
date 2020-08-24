@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SLZHub</string>
+    <string name="menu_send">发送</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_gallery">图库</string>
+    <string name="menu_home">主页</string>
+    <string name="menu_slideshow">幻灯片</string>
+    <string name="menu_tools">工具</string>
+    <string name="action_settings">设置</string>
+    <string name="nav_header_title">屑安卓</string>
+    <string name="nav_header_subtitle">rubbish@android.com</string>
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="nav_header_desc">导航个头</string>
+</resources>
