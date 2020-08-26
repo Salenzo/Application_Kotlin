@@ -1,7 +1,9 @@
 package io.github.salenzo.slzhub
 
+import android.graphics.Color
 import android.os.Bundle
 import android.view.Menu
+import android.view.WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.navigation.NavigationView
